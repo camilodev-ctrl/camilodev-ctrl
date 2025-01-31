@@ -3,7 +3,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 
-Hi there! I'm a passionate programmer from Colombia with a strong desire to contribute to innovative projects and stand out in the software development world. As a first semester Software Engineering student, I already have knowledge in PHP, JavaScript, CSS, SASS, Laravel, Vue.js, streamlit and node.js. My goal is to collaborate with other professionals and continue learning to turn my ideas into reality. I'm always ready to take on new challenges and learn from every experience. 🚀<br><br>
+Colombian software engineering student (first semester) proficient in PHP, JavaScript, CSS, SASS, Laravel, Vue.js, Streamlit, and Node.js.  Eager to contribute to innovative projects, collaborate, and learn. Ready for new challenges. 🚀<br><br>
 
 
 # Contact Me :  
