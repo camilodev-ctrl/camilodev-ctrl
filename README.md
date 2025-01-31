@@ -3,7 +3,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 
-Colombian software engineering student (first semester) proficient in PHP, JavaScript, CSS, SASS, Laravel, Vue.js, Streamlit, and Node.js.  Eager to contribute to innovative projects, collaborate, and learn. Ready for new challenges. 🚀<br><br>
+Hi! My name is Camilo. I'm a Colombian software engineering student (second semester) proficient in Python, Streamlit, Flask. Eager to contribute to innovative projects, collaborate, and learn. Ready for new challenges. 🚀<br><br>
 
 
 # Contact Me :  
