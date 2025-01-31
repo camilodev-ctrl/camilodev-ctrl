@@ -3,13 +3,14 @@ Hi there! I'm a passionate programmer from Colombia with a strong desire to cont
 
 
 # Contact Me :  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 
 <p>
  </br>
 
 <a href="mailto:juangallego3405@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </a>
 <a href="https://www.linkedin.com/in/juan-camilo-rendon-gallego-430b97261/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
